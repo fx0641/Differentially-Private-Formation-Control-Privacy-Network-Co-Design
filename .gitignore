@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Output directories
+figures/
+tikz_budgeted_budget/
+tikz_budgeted_error/
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
